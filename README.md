@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Code 301 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/JTaisey389/reading-notes301.md/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Weclome to my reading notes webpage. 
+  1. In this 301 Reading notes I will go over the various topics that will be covered throughout the course.
+  2. My table of contents has links to alll the class readings and notes  I will take for the course.
+  3. For those who don't know me I have my about me section bellow!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
+Hi everyone! My name is Jason and I was a *Project Manager* for two years in the custom signage industry. Coming from a project management background has provided me with a unique perspective on software development. What pushed me to leave project management was the realization that it just wasn’t the right career choice for me. I enjoyed being involved directly with a project, but project management left me out of making the final decisions. After talking to my partner we decided that it was best to leave my job and I would pursue going back to school full time and thus lead me to Code Fellows. What I see in software development is the ability to not only directly create a user interface, but heavily relies on a problem-solving mindset. I like to think of that problem solving just like a puzzle, and every time you add another piece it’s very rewarding. My **creative mindset** is fueled by software development, and having a cohort of individuals embrace that creative mindset reaffirms my belief that I’ve made the right career move.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Table of Contents
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Link to Code 102
+- [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JTaisey389/reading-notes301.md/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Link to Code 201
+- [Reading Notes 201](https://jtaisey389.github.io/reading-notes201.md/)
