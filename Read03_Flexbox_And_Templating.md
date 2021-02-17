@@ -1,12 +1,13 @@
+03 Reading Notes
 # Code 301 Reading Notes
 
 ## Mustache and Flexbox
-- Javascript templating is a fast and effeciant techique to render client-side veiw templates with Javascript but using a JSON data source. 
+- Javascript templating is a fast and efficient technique to render client-side view templates with Javascript but using a JSON data source. 
 
 ### Mustache
-- Mustache is a logic-less template suntax. It can be used for HTML, config files, source code and so on. It expands tags in a template using values provided in **hash** or **object**.
+- Mustache is a logic-less template syntax. It can be used for HTML, config files, source code and so on. It expands tags in a template using values provided in **hash** or **object**.
 
-- It is refered to as "logic-less" because there are no if statements, else clauses, or for loops. There are only tags. Some tags are replaced with a value, some nothing ,and other a series of values. 
+- It is referred to as "logic-less" because there are no if statements, else clauses, or for loops. There are only tags. Some tags are replaced with a value, some nothing ,and other a series of values. 
 
 - Mustache.js is an implementation of the mustache template system in JavaScript. It is considered the base for JavaScript templating. 
 
@@ -35,7 +36,7 @@ app.set('views, _dirname + '/src/views');
 
 https://miro.medium.com/max/2400/1*FRcL9NQHI7Cvi2ELLmzJGQ.png
 
-Next in the router congiguration, use res.redner(TEMPLATE_NAME, JSSON_DATA).Example:
+Next in the router configuration, use res.redner(TEMPLATE_NAME, JSSON_DATA).Example:
 
 **res.render('hello', {"name": Sherlyn})**
 
@@ -44,7 +45,7 @@ The first parameter hello refers to the hello.thm file. The second parameter wou
 var nameObject = {"name": "Sherlynn"}
 res.render('hello', nameObject)
 
-This is a simple example, but it should help you to understand the vasic concept behind templating. 
+This is a simple example, but it should help you to understand the basic concept behind templating. 
 ### Table of Contents
 
 ### Link to Code 102
