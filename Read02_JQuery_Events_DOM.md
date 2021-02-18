@@ -1,4 +1,3 @@
-02 Reading Notes
 # Code 301 Reading Notes
 
 ## Read 02 jQuery, Events, and The DOM
@@ -131,3 +130,11 @@ $('li').append(`'<i>` + $listItemText + `'</i>'`);
 **.replaceWith()**
 
 **.remove()**
+
+### Table of Contents
+
+### Link to Code 102
+- [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes/)
+
+### Link to Code 201
+- [Reading Notes 201](https://jtaisey389.github.io/reading-notes201.md/)

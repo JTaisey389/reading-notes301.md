@@ -1,4 +1,3 @@
-03 Reading Notes
 # Code 301 Reading Notes
 
 ## Mustache and Flexbox

@@ -223,5 +223,4 @@ Types of clearing floats: Left, Right, Both, and none
 ### Link to Code 201
 - [Reading Notes 201](https://jtaisey389.github.io/reading-notes201.md/)
 
-### Links to misc URL for notes
-https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+
