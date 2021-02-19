@@ -1,4 +1,3 @@
-04 Reading Notes
 # Code 301 Reading Notes
 
 ## Read 04 Responsive web design and Regular Expressions
