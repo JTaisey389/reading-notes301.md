@@ -4,6 +4,13 @@
 
 **NPM: Node Package Manager**
 
+**Express is a library that handles creatting servers and talking on the internet through http**
+
+**CORS: Cross origin resource sharing - This enables firewall like behavior controls. It realeases a restriction that your computer cannot talk to your computer and lets your computer talk to itself**
+
+**Statics means that files doe not change. Once the server is running the HTML does not edit**
+
+
 ### Getting Started
 - The first step in being able to use HEROKU is to install it onto your machine Depending on your platform there is a specific way to install it onto your computer. After you have installed HEROKU you then use the `heroku login` command within your terminal to login to HEROKU CLI.
 
@@ -233,6 +240,8 @@ https://devcenter.heroku.com/articles/one-off-dynos#timeout-awaiting-process
 
 ### Next Steps
 - Congrats we delpoyed an app, changes it configuration, veiwed logs, scaled, and attached add-ons. 
+
+### Table of Contents
 
 ### Link to Code 102
 - [Code 102 Reading Notes](https://jtaisey389.github.io/reading-notes/)
