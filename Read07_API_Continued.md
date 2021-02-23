@@ -1,5 +1,3 @@
-07 Reading Notes
-
 # Code 301 Reading Notes
 
 ## Read 07 API's continued
