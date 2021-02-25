@@ -1,8 +1,9 @@
+10 Reading Notes
 # Code 301 Reading Notes
 
 ## Read 10 The Call Stack
 
-- A call stack is a mechnisim for n interpreter to keep track of it's place in a scritp that calls multiple functions. When the script calls a function the interpreter adds it to the call stack and then carries out the function.
+- A call stack is a mechanism for n interpreter to keep track of it's place in a script that calls multiple functions. When the script calls a function the interpreter adds it to the call stack and then carries out the function.
 
 - Example: 
 
@@ -26,15 +27,15 @@
   3. Executes all lines of code
   4. Moves to the `sayHi()` function invocation
   5. Add `sayHi()` to the call stack
-  6. Exacute all lines of code within `sayHi()` 
+  6. Execute all lines of code within `sayHi()` 
   7. Return execution to the line that invoked `sayHi()` and continue to the `greeting()` function
   8. Delete the `sayHi()` function 
-  9. When everything incide the `greeting()` function has been executed, return to its ivoking line to execute the remaining JS code. 
+  9. When everything inside the `greeting()` function has been executed, return to its invoking line to execute the remaining JS code. 
   10. Delete the `greeting()` function from the call stack
 
 ### The Call Stack and why it is necessary
 
-- The call stack is primarly used for function invocation. The call stack is single, function execution is done one at a time from top to bottom. The call stack is vital to Asynchronous programing.
+- The call stack is primarily used for function invocation. The call stack is single, function execution is done one at a time from top to bottom. The call stack is vital to Asynchronous programing.
 
 - Asynchronous JavaScript, we have a callback function, an event loop, and a task que. The callback function is acted upon by the call stack during the execution after the call back has been pushed back by the event loop. 
 
