@@ -1,6 +1,4 @@
-# Code 301 Reading Notes
 
-## Read 08 SQL
 
 ### What is SQL
 - SQL: Structured Query Language, is a language designed to allow both technical an non-technical users query, manipulate, and transform data. Thanks to it's simplicity, SQL databases provide a safe and scalable storage for millions of websites and mobile applications.

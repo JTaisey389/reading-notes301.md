@@ -15,6 +15,8 @@ https://1sherlynn.medium.com/javascript-templating-language-and-engine-mustache-
 
 https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
 
+https://sqlbolt.com/lesson/creating_tables
+
 ### Table of Contents
 
 
