@@ -17,6 +17,8 @@ https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
 
 https://sqlbolt.com/lesson/creating_tables
 
+https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/
+
 ### Table of Contents
 
 

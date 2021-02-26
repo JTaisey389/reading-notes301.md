@@ -1,4 +1,3 @@
-10 Reading Notes
 # Code 301 Reading Notes
 
 ## Read 10 The Call Stack
