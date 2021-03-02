@@ -23,6 +23,8 @@ https://medium.com/@henslejoseph/ejs-partials-f6f102cb7433
 
 https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github#:~:text=Just%20add%20an%20tag,sure%20the%20server%20supports%20CORS.&text=Note%3A%20if%20using%20multiple%20images,to%20make%20it%20look%20readable.&text=!,-%5B%5D(relative%20url
 
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
+
 ### Table of Contents
 
 
